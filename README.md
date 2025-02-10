@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 # ¡Pizzeria Mamma Mia!
 
-- Para visualizarlo ingresar a: https://rosagarchi.github.io/pizzeria.mammamia.io/)
+- Para visualizarlo ingresar a: (https://rosagarchi.github.io/pizzeria.mammamia.github.io/)
